@@ -3,17 +3,32 @@
     {
       "id": "45",
       "firstName": "Soria",
-      "age": 33
+      "age": 33,
+      "companyId": "1"
     },
     {
       "id": "kjj",
       "firstName": "Aemal",
-      "age": 35
+      "age": 35,
+      "companyId": "1"
     },
     {
       "id": "584",
       "firstName": "Ashkaan",
-      "age": 2
+      "age": 2,
+      "companyId": "2"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "Search"
     }
   ]
 }
